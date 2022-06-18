@@ -19,6 +19,7 @@ dependencies:
   - geoviews
   - gsw
   - hvplot
+  - ipython # Needed for sphinx-codeautolink
   - matplotlib-base
   - netcdf4
   - pint-xarray
@@ -31,5 +32,6 @@ dependencies:
   - xarray
   - zarr
   - pip:
+      - sphinx-codeautolink
       - sphinx-notfound-page
       - sphinxext-rediraffe
