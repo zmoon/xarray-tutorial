@@ -80,7 +80,7 @@ sphinx:
 
     intersphinx_mapping:
       xarray:
-        - https://docs.xarray.dev/en/stable/
+        - https://docs.xarray.dev/en/latest/
         - null
       numpy:
         - https://numpy.org/doc/stable
